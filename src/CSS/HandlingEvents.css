@@ -1,0 +1,26 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+.container{
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgb(210, 214, 203);
+    font-size: 29px;
+  
+  }
+.Events{
+    font-size: 20px;
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(89, 81, 168);
+    cursor: pointer;
+    margin: 4px;
+    font-size: 90px;
+  
+}
