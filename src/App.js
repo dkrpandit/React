@@ -1,10 +1,11 @@
 import React from 'react'
 import './App.css';
-import HandlingEvents from './Components/HandlingEvents';
+// import HandlingEvents from './Components/HandlingEvents';
+import Forms from './Components/Forms';
 const App = () => {
   return (
   <>
-     <HandlingEvents/>
+    <Forms/>
   </>
   )
 }

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    /* background-color: rgb(161, 236, 207); */
+}
+.submit{
+    background-color: #71c171;;
+    font-size: 26px;
+    font-weight: bolder;
+    border: 2px solid white;
+    /* border: none; */
+    padding: 11px;
+    margin-top: 13px;
+    border-radius: 11px;
+    cursor: pointer;
+}
+.inputField{
+    border-radius: 6px;
+    border: none;
+    padding: 9px;
+    font-size: 22px;
+    margin-top: 13px;
+    border: 2px solid black;
+}
